@@ -6,7 +6,7 @@ Implementation of the LeNet-5 convolutional neural network architecture using Ke
 ## Open in Colab
 
 You can open and run the notebook in Google Colab by clicking the button:
-        [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nagaditya39/Autoencoder-Classifier/blob/main/Cifar10.ipynb)
+        [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nagaditya39/LeNet5-CIFAR10-Visualizer/blob/main/Cifar10.ipynb)
 
 
 ## Description
